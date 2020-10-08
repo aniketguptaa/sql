@@ -9,7 +9,7 @@ MINIMUM SALART
 SELECT MIN(sal) FROM emp;
 
 AVERAGE SALARY
-------------------
+--------------------
 SELECT AVG(sal) FROM emp;
 
 
