@@ -1,0 +1,18 @@
+DISPLAY MAXIMUM, MINIMUM AND AVERAGE SALARY
+
+MAXIMUM SALARY
+------------------
+SELECT MAX(sal) FROM emp;
+
+MINIMUM SALART
+---------------------
+SELECT MIN(sal) FROM emp;
+
+AVERAGE SALARY
+------------------
+SELECT AVG(sal) FROM emp;
+
+
+-------------------------------------
+
+This Query is written by @aniketguptaa
